@@ -1,0 +1,44 @@
+.wrapper {
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: 100vh;
+}
+
+.section-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-1-card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #fff;
+}
+
+.section-1-card i {
+    font-size: 70px;
+    color: #ec4835;
+}
+
+.section-1-card h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.section-2 {
+    background-color: #fff7d8;
+}
+
+.section-2 img {
+    max-height: 500px;
+}
